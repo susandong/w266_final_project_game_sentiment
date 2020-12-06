@@ -3,7 +3,9 @@ final project for w266
 
 Final Paper: https://github.com/susandong/w266_final_project_game_sentiment/blob/master/W266%20Final%20Paper%20Report_game_review_final.pdf 
 
-Final notebook: https://github.com/susandong/w266_final_project_game_sentiment/blob/master/Final_w266_Final_Project_Game_Review_1205.ipynb; https://github.com/susandong/w266_final_project_game_sentiment/blob/master/Final_w266_Final_Project_Aspect_Extraction_1129.ipynb
+Final notebook1: https://github.com/susandong/w266_final_project_game_sentiment/blob/master/Final_w266_Final_Project_Game_Review_1205.ipynb;  
+
+Final notebook2: https://github.com/susandong/w266_final_project_game_sentiment/blob/master/Final_w266_Final_Project_Aspect_Extraction_1129.ipynb
 
 -------------------
 materials:
