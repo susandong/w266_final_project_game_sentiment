@@ -1,7 +1,7 @@
 # w266_final_project_game_sentiment
 final project for w266  
 
-**Final Paper: https://docs.google.com/document/d/1_dWKxpzrGRevjrj5SiMZvT2t7i6lGby5V_JOYjHh6G8/edit#**
+**Final Paper: https://docs.google.com/document/d/1_dWKxpzrGRevjrj5SiMZvT2t7i6lGby5V_JOYjHh6G8/edit**
 
 **Final notebook: https://github.com/susandong/w266_final_project_game_sentiment/blob/master/Final_w266_Final_Project_Game_Review_1205.ipynb**
 -------------------
